@@ -1,20 +1,20 @@
 {
-    "integratedMasterKey": "6b1f1489429a461780dafbfe",
+    "integratedMasterKey": "c958dce949d44f7699ec77c0",
     "integratedInstances": [
         {
-            "id": "59e71ef6e4b0edcca2f82abe",
+            "id": "59ec490de4b03ffa03083698",
             "type": "auth"
         },
         {
-            "id": "59e71ef6e4b03ffa02e808f0",
+            "id": "59ec490de4b0edcca318e18a",
             "type": "object-storage"
         },
         {
-            "id": "59e71ef6e4b0edcca2f82ac1",
+            "id": "59ec490ee4b0edcca318e190",
             "type": "lambda"
         },
         {
-            "id": "59e72024e4b0edcca2f8323f",
+            "id": "59ec49e6e4b03ffa03083b09",
             "type": "cdn"
         }
     ]
